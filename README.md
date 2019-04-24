@@ -12,7 +12,7 @@ Google Cloud Functions 関数として使用します。
   "line_token": "bbbbbbbbbbbbbb" ← LINE Notify へのアクセストークン
 }
 ```
-※ LINE Notify のアクセストークン取得方法は[この辺り](../../auto-trading-support-tools/wiki/create_line_token)を参考に。
+※ LINE Notify のアクセストークン取得方法は[この辺り](../../../auto-trading-support-tools/wiki/create_line_token)を参考に。
 
 
 2. コマンドラインから以下を実行する
