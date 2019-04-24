@@ -10,7 +10,7 @@ Google Cloud Functions 関数として使用します。
 * gcloud コマンドが認証済で、使用するGCPプロジェクトがデフォルトプロジェクトになっている
 
 ## 手順
-1. auth.json.sample を参考に、 auth.json を作成する  
+1. auth.json.sample を参考に、 auth.json を作成して、index.js と同じ場所に保存する。  
 ```
 【auth.json.sample】
 
