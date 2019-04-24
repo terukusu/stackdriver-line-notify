@@ -1,0 +1,8 @@
+node_modules/
+.git/
+
+.gcloudignore
+.gitignore
+auth.json.sample
+package-lock.json
+*.md
