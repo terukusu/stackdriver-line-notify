@@ -3,7 +3,7 @@ Stackdriver のからのAlerting通知をLine Notifyに送るための Webhook �
 Google Cloud Functions 関数として使用します。
 
 ## 前提
-* [Google Cloud Platform (GCP)](https://cloud.google.com/gcp/getting-started/?hl=ja) へのの登録(無料)は完了している
+* [Google Cloud Platform (GCP)](https://cloud.google.com/free/?hl=ja) へのの登録(無料)は完了している
     * GCP プロジェクトが作成済みでそのプロジェクトで課金が有効になっている
         * 無料枠を利用するだけでも課金の設定が必要
 * [gcloud コマンド](https://cloud.google.com/sdk/downloads?hl=JA)がインストール済み
