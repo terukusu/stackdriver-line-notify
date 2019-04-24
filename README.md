@@ -3,7 +3,7 @@ Stackdriver のからのAlerting通知をLine Notifyに送るための Webhook �
 Google Cloud Functions 関数として使用します。
 
 ## デプロイ手順
-1. auth.json.sample を参考に、 auth.json を作成する
+1. auth.json.sample を参考に、 auth.json を作成する  
 auth.json.sample
 ```
 {
